@@ -1,0 +1,17 @@
+A script to automate the process of searching for a property in Maryland.
+
+                @@@@O..@@@@*............#@@####O@@@@@OO#@@@@@
+                @@  @@@@@###............#@@@@@@@@###o@@@OO@@@
+                O @@@..*#@@@............#@@@@@@@@@@@Oooo@@OO@
+                @@ ......°*O°...........#@@@@@@@@@#OoOoooo@@O
+                 ...........#Oo°........#@@@@@@@@o   °OOOOoo@
+                ............#@@@#o*.....#@@@@#*°°     °°°oOOO
+                ............#@@@@@@@#o°.@@@@@°           .OOo
+                ............#@@@@#oooO@#oo#@@#o°°     °°°oOOO
+                ............#@@@@o    #@°..°oO@@@*   .OOOOOOO
+                ............#@O**.    °*       °*.    °°°°°°°
+                ooooooooooooOO                               
+                OOOOOOOOOOOOoOo**°    °**********.    *******
+                OOOOOOOOOOOOOOOOOo    oOOOOOOOOOO°   .OOOOOOO
+                OOOOOOOOOOOOOOOOOOo**oOOOOOOOo°.°     °.°oOOO
+                OOOOOOOOOOOOOOOOOOOOOOOOOOOOO°           .OOO
